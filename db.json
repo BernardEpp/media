@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Orlando Keebler",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handcrafted Cotton Fish",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55898",
+      "id": 1
+    }
+  ]
+}
